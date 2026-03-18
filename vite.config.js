@@ -6,7 +6,11 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+<<<<<<< HEAD
   base: '/lab1_computo2/',
+=======
+  base: '/laboratorio1-computotadora2/',
+>>>>>>> 6e698a3 (Corrigiendo base a lab1-computo2)
   plugins: [
     vue(),
     vueDevTools(),
